@@ -57,7 +57,7 @@ export default function AboutPage() {
       </p>
 
       <p className="mt-20 text-xs text-black/40">
-        Developed by{" "}
+        Built by{" "}
         <a
           className="underline"
           href="https://noeschertenleib.ch"
