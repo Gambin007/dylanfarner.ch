@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-figtree), ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  /* Höhe der fixen Kopfzeile. */
+  --header-height: 4rem;
+  /* Platz, den ein Carousel-Slide in der Höhe hat (Viewport minus Kopfzeile minus py-6). */
+  --slide-height: calc(100svh - var(--header-height) - 3rem);
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
