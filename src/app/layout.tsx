@@ -13,7 +13,7 @@ const figtree = Figtree({
 export const metadata: Metadata = {
   title: "Dylan Farner",
   description:
-    "Dylan Farner – Fotograf aus Zürich. Menschen, Mode, Partys, urbane Räume, Jugend- und Subkulturen.",
+    "Dylan Farner – Fotograf aus Zürich.",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

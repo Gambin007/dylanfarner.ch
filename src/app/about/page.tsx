@@ -18,7 +18,7 @@ const clients = [
 
 export default function AboutPage() {
   return (
-    <div className="max-w-2xl px-6 pt-50 pb-16 text-sm leading-relaxed sm:text-[15px]">
+    <div className="max-w-2xl px-6 pt-30 pb-16 text-sm leading-relaxed sm:text-[15px]">
       <p>Dylan Farner</p>
 
       <p className="mt-6">

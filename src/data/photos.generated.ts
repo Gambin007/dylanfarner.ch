@@ -44,7 +44,9 @@ export const slides: Slide[] = [
       "height": 2800,
       "alt": "Frédéric Dedelley für Horgenglarus",
       "title": "Frédéric Dedelley für Horgenglarus"
-    },
+    }
+  ],
+  [
     {
       "src": "/photos/dedelley-2.jpg",
       "width": 1866,
@@ -81,8 +83,8 @@ export const slides: Slide[] = [
       "src": "/photos/lou-kaena-cover.jpg",
       "width": 2800,
       "height": 2800,
-      "alt": "Lou Kaena Cover",
-      "title": "Lou Kaena Cover"
+      "alt": "Lou Kaena Cover Foto (Fleur Fanée)",
+      "title": "Lou Kaena Cover Foto (Fleur Fanée)"
     }
   ],
   [
@@ -101,13 +103,6 @@ export const slides: Slide[] = [
       "height": 1575,
       "alt": "Johno37 & Cleanup030 Cover (BTS)",
       "title": "Johno37 & Cleanup030 Cover (BTS)"
-    },
-    {
-      "src": "/photos/yg-denzho.jpg",
-      "width": 2240,
-      "height": 2800,
-      "alt": "Yg denzho",
-      "title": "Yg denzho"
     }
   ],
   [
@@ -133,6 +128,13 @@ export const slides: Slide[] = [
       "height": 2800,
       "alt": "Wagwan",
       "title": "Wagwan"
+    },
+    {
+      "src": "/photos/yg-denzho.jpg",
+      "width": 2240,
+      "height": 2800,
+      "alt": "Yg denzho",
+      "title": "Yg denzho"
     }
   ],
   [
@@ -140,8 +142,8 @@ export const slides: Slide[] = [
       "src": "/photos/zueritipp-cover.jpg",
       "width": 1866,
       "height": 2800,
-      "alt": "Züritipp Cover",
-      "title": "Züritipp Cover"
+      "alt": "Züritipp Cover Foto",
+      "title": "Züritipp Cover Foto"
     }
   ],
   [
@@ -165,8 +167,8 @@ export const slides: Slide[] = [
       "src": "/photos/spieler-ttae.jpg",
       "width": 2240,
       "height": 2800,
-      "alt": "Spieler TTAE",
-      "title": "Spieler TTAE"
+      "alt": "Spieler TTAE (By Ivan Volodko)",
+      "title": "Spieler TTAE (By Ivan Volodko)"
     }
   ],
   [
@@ -190,8 +192,8 @@ export const slides: Slide[] = [
       "src": "/photos/110-prozent-schal.jpg",
       "width": 2240,
       "height": 2800,
-      "alt": "110 prozent schal",
-      "title": "110 prozent schal"
+      "alt": "100 Prozent Schal",
+      "title": "100 Prozent Schal"
     }
   ],
   [
@@ -215,8 +217,8 @@ export const slides: Slide[] = [
       "src": "/photos/chez-tunsi.jpg",
       "width": 1867,
       "height": 2800,
-      "alt": "Chez Tunsi",
-      "title": "Chez Tunsi"
+      "alt": "chez tunsi",
+      "title": null
     }
   ],
   [
