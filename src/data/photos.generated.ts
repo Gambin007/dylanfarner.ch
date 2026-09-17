@@ -192,8 +192,8 @@ export const slides: Slide[] = [
       "src": "/photos/110-prozent-schal.jpg",
       "width": 2240,
       "height": 2800,
-      "alt": "100 Prozent Schal",
-      "title": "100 Prozent Schal"
+      "alt": "110 Prozent Schal",
+      "title": "110 Prozent Schal"
     }
   ],
   [
